@@ -1,0 +1,20 @@
+{
+  "name": "chrome-resolution",
+  "version": "1.0.0",
+  "description": "해상도 표시 플러그인",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juhwannn/chrome-resolution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juhwannn/chrome-resolution/issues"
+  },
+  "homepage": "https://github.com/juhwannn/chrome-resolution#readme"
+}
